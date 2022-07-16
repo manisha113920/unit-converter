@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="welcome">WELCOME</string>
+    <string name="enter_number">Enter Number</string>
+</resources>
